@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IAMolofficial/Reach-Application.git/static/css/main.127d5a23.css",
+    "main.js": "/IAMolofficial/Reach-Application.git/static/js/main.8552511d.js",
+    "static/js/787.459f8204.chunk.js": "/IAMolofficial/Reach-Application.git/static/js/787.459f8204.chunk.js",
+    "static/media/Logo.png": "/IAMolofficial/Reach-Application.git/static/media/Logo.82c0b270e7abcd73e776.png",
+    "index.html": "/IAMolofficial/Reach-Application.git/index.html",
+    "main.127d5a23.css.map": "/IAMolofficial/Reach-Application.git/static/css/main.127d5a23.css.map",
+    "main.8552511d.js.map": "/IAMolofficial/Reach-Application.git/static/js/main.8552511d.js.map",
+    "787.459f8204.chunk.js.map": "/IAMolofficial/Reach-Application.git/static/js/787.459f8204.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.127d5a23.css",
+    "static/js/main.8552511d.js"
+  ]
+}
