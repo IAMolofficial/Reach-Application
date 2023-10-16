@@ -1,0 +1,21 @@
+img {
+  height: 100px;
+}
+.Logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.nav-item {
+  font-size: 15px;
+  color: black;
+}
+.nav-link{
+  color: #1b07ce;
+  font-weight: 200px;
+}

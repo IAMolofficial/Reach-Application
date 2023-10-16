@@ -1,0 +1,34 @@
+.content {
+  /* border: 1px solid #000; */
+  margin: 50px 200px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: Bold;
+}
+.tech {
+  color: #737adb;
+}
+.user {
+  color: #1b07ce;
+}
+.features {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.features_list {
+    list-style-type: square;
+    padding: 0;
+}
+.fetaures_data {
+  font-size: 22px;
+}
+.features_list .fetaures_data:nth-child(-n + 3) {
+  color: red;
+}
+.status{
+  font-size: 22px;
+  margin: 30px 200px;
+  text-align: center;
+  color: darkgray;
+}
